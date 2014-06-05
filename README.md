@@ -1,4 +1,4 @@
-ChromeExtention_SplitParagraphIntoLines
+ChromeExtension_SplitParagraphIntoLines
 =======================================
 
 an update working Chrome extension for Chrome v 35 - June 2014
