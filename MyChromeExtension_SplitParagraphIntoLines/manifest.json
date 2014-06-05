@@ -1,0 +1,25 @@
+{
+ "name": "Format Selected Text Into Separate Lines",
+ "version": "0.1",
+ "description": "",
+ "manifest_version": 2,
+ "browser_action": {
+   "default_title": "Format Selected Text Into Separate Lines",
+   "default_icon": "on.png",
+   "default_popup": "popup.html" 
+ },
+ "permissions": [
+   "tabs",
+   "<all_urls>",
+	"clipboardWrite",
+	"clipboardRead"
+ ],
+ "content_scripts": [
+   {
+     "matches": ["<all_urls>"],
+     "js": ["selection.js"],
+     "run_at": "document_start",
+     "all_frames": true
+   }
+ ]
+}
