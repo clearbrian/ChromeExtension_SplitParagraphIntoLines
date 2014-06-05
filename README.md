@@ -3,7 +3,7 @@ ChromeExtension_SplitParagraphIntoLines
 
 Chrome Extension: Split paragraph of text into individual lines
 
-Select any paragraph of textin browser.
+Select any paragraph of text in browser.
 
 Hit the extension icon
 
