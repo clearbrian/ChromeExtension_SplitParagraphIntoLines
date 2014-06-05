@@ -44,7 +44,7 @@ press button on page "Load unpacked extensions"
 
 (if missing you need to turn on Developer menu options in chrome preferences)
 
-extension icon should appear on toolbar - shapped like a house
+extension icon should appear on toolbar - shaped like a house
 
 ---------
 
