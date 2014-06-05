@@ -1,7 +1,28 @@
 ChromeExtension_SplitParagraphIntoLines
 =======================================
 
-an update working Chrome extension for Chrome v 35 - June 2014
+Chrome Extension: Split paragraph of text into individual lines
+
+Select any paragraph of textin browser.
+
+Hit the extension icon
+
+popup appers
+
+press Paste Selection
+
+paragraph is split into lines for easy reading 
+
+pastes into the popup and clipboard
+
+handy for studying dev docs.
+
+Used for Apples docs. Split verbose paragraghs into lines to past into bullets
+
+
+------
+
+working Chrome extension for Chrome v 35 - June 2014
 
 Select any text on webpage.
 
